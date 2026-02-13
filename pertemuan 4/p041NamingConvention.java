@@ -3,7 +3,7 @@ public class p041NamingConvention {
     public static final double PI = 3.14;
 
     public static void main(String[] args) {
-        // Variabel dengan camelCase
+    
         int studentAge = 20;
         String studentName = "Budi";
         boolean isActive = true;
