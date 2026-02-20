@@ -1,3 +1,10 @@
+/*
+Nama    : Larra Syifa As Shaum
+NIM     : D1041241070
+Tanggal : 18 Februari 2026
+*/
+
+
 public class LatihanKalkulator{
     public static void main (String[] args){
 
