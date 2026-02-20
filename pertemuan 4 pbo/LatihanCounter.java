@@ -26,3 +26,4 @@ public class LatihanCounter{
         System.out.println("Setelah *= 2: " + counter);
     }
 }
+
