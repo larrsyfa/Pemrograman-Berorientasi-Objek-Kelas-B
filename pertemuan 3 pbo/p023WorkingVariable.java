@@ -1,3 +1,9 @@
+/*
+Nama    : Larra Syifa As Shaum
+NIM     : D1041241070
+Tanggal : 13 Februari 2026
+*/
+
 public class p023WorkingVariable {
     public static void main(String[] args){
         int umur = 20;
